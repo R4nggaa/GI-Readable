@@ -1,6 +1,3 @@
-<image name=UI_TRPG_Liney/>
-Nama Karakter: Lyney
-Identitas Karakter: Marechaussee Hunter
-Latar Belakang:
-Sebagai anak angkat yang diasuh oleh Marechaussee Hunter, perjalanan mengembara di jalanan pada masa mudanya membuatnya menguasai beberapa keterampilan dasar untuk bertahan hidup.
-Kemampuan Karakter: "Menyelinap", "Tangan Lincah", "Pemanggilan"
+<image name=UI_TRPG_Clorinde/>
+Nama Karakter: Clorinde
+Identitas Karakter: Game Master Klub Sandiwara Meja
