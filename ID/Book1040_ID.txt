@@ -6,7 +6,7 @@ CL-02 "Gadis Batu Giok" Ix Je'lal K'ua'l Ka'
 CL-03 "Penenun Rahasia" Ix Kemonel Jasjatem Oox
 CL-05 "Pemberi Mata Air Pahit" Aj K'astajibal Cha'ama' Ho'o
 CL-07 "Hujan Beracun di Tengah Hutan Tak Terbatas" Aj Chojojik Kamikabal U'uk
-CL-08 "Pemimpin Suci Lilin dan Bulu Langit" Ix Ajkotz'i'j Iq'ismal Waxak
+CL-08 "Pemimpin Suci Lilin Bunga dan Bulu Langit" Ix Ajkotz'i'j Iq'ismal Waxak
 CL-12 "Mata Air Berbisik" Ix Roq'ratik'obala' Ka'alahun
 
 [Catatan Dimulai]
