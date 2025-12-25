@@ -1,6 +1,6 @@
 <center><color=#FF5E41FF>安全通信频道已建立…</color>
 
-<color=#FF5E41FF>>数据读取中…</color>
+<color=#FF5E41FF>数据读取中…</color>
 
 <color=#00E1FFFF>权限验证通过。格蕾兹娜研究员，祝您在末日后的世界拥有美好的一天。</color></center>
 
