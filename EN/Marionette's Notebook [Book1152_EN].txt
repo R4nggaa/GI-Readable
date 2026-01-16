@@ -18,11 +18,11 @@ It feels as if the only companion I have left in this world is the moon.
 
 ■ / ■ - Sunny
 
-I'm leaving now. Farewell, Alain.
+I'm leaving now. Farewell!
 
 ■ / ■ - Overcast
 
-Update Log
+Update Log:
 Upgraded Pulonia's tea-brewing functions.
 Upgraded Pulonia's meal delivery functions.
 Upgraded Pulonia's book search functions.
