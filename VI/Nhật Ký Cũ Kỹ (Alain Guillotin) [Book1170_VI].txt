@@ -1,15 +1,15 @@
 ...
 Trợ thủ được sắp xếp hình như không đáng tin cậy lắm.
 Hiện tại xem ra động lực của những cỗ máy chiến tranh đó không thể dùng được. Độ nguy hiểm của phần lõi quá cao.
-Bảo họ đi thu thập những cỗ máy thần bí khác.
+Mình sẽ bảo họ đi thu thập những cỗ máy thần bí khác.
 
 ...
 Không có tiến triển gì đặc biệt.
-Dưới sự giám sát của cha nuôi đã cùng Ann đi tìm cảm hứng ở nơi từng xảy ra chiến đấu. Gặp được Rene và Jakob.
+Dưới sự giám sát của cha nuôi, mình đã cùng Ann đi tìm cảm hứng ở nơi từng xảy ra trận đấu. Gặp được Rene và Jakob.
 
 ...
 Trợ thủ hình như không đáng tin cậy lắm. Đã gây ra một số sự cố. Cứ xem như khó khăn cần khắc phục vậy.
-Cỗ máy có ngoại hình hơi tùy tiện này cũng thú vị đấy. Trọng tâm nghiên cứu nguồn động lực.
+Cỗ máy có ngoại hình hơi tùy tiện này cũng thú vị đấy. Nghiên cứu sẽ tập trung vào nguồn năng lượng của chúng.
 
 ...
 Nghiên cứu máy móc năng lượng.
@@ -24,8 +24,8 @@ Gọi Ann đến giúp. Đề nghị Ann gia nhập vào học viện, nhưng em
 
 ...
 Nghiên cứu máy móc năng lượng.
-Trợ thủ vẫn chưa đến. Quyết định đi thăm.
-Thông qua cha nuôi tìm đến cha nuôi của Rene và Jakob.
+Trợ thủ vẫn chưa đến. Mình quyết định đi thăm.
+Thông qua cha nuôi, mình tìm đến cha nuôi của Rene và Jakob.
 
 ...
 Máy móc năng lượng bổ sung đã đến rồi. Tiếp theo chắc sẽ có tiến triển.
@@ -33,7 +33,7 @@ Trợ thủ nhìn có vẻ rất phấn chấn. Chắc chỉ là bệnh nhẹ.
 
 ...
 Nghiên cứu máy móc năng lượng.
-Rene và Jakob đã đến. Sắp xếp họ vào dự án của tôi.
+Rene và Jakob đã đến. Đã sắp xếp họ vào dự án của mình.
 
 ...
 Điều tra nơi hoang vu.
@@ -52,16 +52,16 @@ Trợ thủ xin nghỉ phép.
 
 ...
 Một bước đột phá lớn.
-Trợ thủ xin nghỉ phép. Vì bận quá không có thời gian đi thăm. Bị Ann mắng. Ngày mai đi.
+Trợ thủ xin nghỉ phép. Vì bận quá không có thời gian đi thăm. Bị Ann mắng. Ngày mai đi vậy.
 
 ...
 Một bước đột phá lớn.
-Quên mất đi thăm rồi, thật xin lỗi. Hẹn mọi người ngày mai cùng đi.
+Quên mất đi thăm rồi, thật xin lỗi. Hẹn mọi người ngày mai cùng đi vậy.
 
 ...
 Nghỉ phép.
 Trợ thủ xin nghỉ phép. Đi thăm.
-Một ý tưởng đáng để ghi lại. Không dựa theo cây logic, mà là một lượng lớn tư duy cấu thành như mạng lưới thần kinh.
+Một ý tưởng đáng để ghi lại. Không dựa theo logic, mà là một lượng lớn tư duy cấu thành như mạng lưới thần kinh.
 Máy ảnh?
 
 ...
@@ -81,7 +81,7 @@ Trợ thủ xin nghỉ phép.
 Đã có bước đột phá.
 Thủ tục xin cấp bằng sáng chế rất phiền, thôi bỏ đi.
 Tình hình của trợ thủ cũng ổn. Nhưng có hơi lo.
-Nghĩ đến sự chênh lệch về kỹ thuật y học, nên kiến nghị đến Sumeru khám thử.
+Nghĩ đến sự chênh lệch về kỹ thuật y học, nên mình kiến nghị đến Sumeru khám thử.
 
 ...
 Nghỉ phép.
@@ -96,8 +96,8 @@ Lên danh sách nguyên liệu cần dùng.
 
 ...
 Đi thăm.
-Nói là vì thí nghiệm chuyển động học nên đã chuẩn bị phòng thí nghiệm lớn hơn.
-Nhưng quyết định tạm chưa di dời.
+Họ nói là vì thí nghiệm chuyển động học, nên đã chuẩn bị phòng thí nghiệm lớn hơn.
+Nhưng mình quyết định tạm chưa di dời.
 
 ...
 Đi thăm.
@@ -107,7 +107,7 @@ Nhưng quyết định tạm chưa di dời.
 
 ...
 Đi thăm.
-Đã đốc thúc tôi chuyển phòng thí nghiệm nhiều lần rồi.
+Đã đốc thúc mình chuyển phòng thí nghiệm nhiều lần rồi.
 Nhưng nếu chuyển đi thì trợ thủ có thể không tìm được, có hơi phiền.
 
 ...

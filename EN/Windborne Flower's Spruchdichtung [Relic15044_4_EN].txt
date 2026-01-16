@@ -6,9 +6,9 @@
 "We shall never betray friendship in days of bitter darkness, and we shall never forget the oath written in blood."
 
 "In the name of Gunnhildr's clan head, I hereby pledge allegiance to the newborn god."
-"We shall not, like the Gotini clan, proffer songbirds wrought from pure gold."
-"Nor shall we, like the Hlaewringi clan, pledge glorious deeds of war to the wind."
-"Unlike the Bructeri, who raise sacred halls, or the Sitones, who present exquisite verses,"
+"We shall not, like the Goldney clan, proffer songbirds wrought from pure gold."
+"Nor shall we, like the Laurenge clan, pledge glorious deeds of war to the wind."
+"Unlike the Brodiri, who raise sacred halls, or the Sithones, who present exquisite verses,"
 "We lay before the wind nothing but blossoms, ardent hearts, and a sincerity that shall never fade."
 
 "In the name of Gunnhildr's clan head, I hereby pledge allegiance to the newborn god."
@@ -20,5 +20,5 @@
 "We shall guard the song of Mondstadt without faltering, as the new winds once bestowed upon us their sheltering grace."
 
 "In the name of Great Arcadia's descendants, thus do we crown the newborn god with the thousand winds."
-"May your words be as those of our former lady, until the faith of all beings becomes one with poetry."
-"May your deeds be as those of our former lady, until our former lady acts as you do."
+"May your words be as those of our former lord, until the faith of all beings becomes one with poetry."
+"May your deeds be as those of our former lord, until our former lord acts as you do."

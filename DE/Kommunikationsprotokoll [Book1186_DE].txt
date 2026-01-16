@@ -2,11 +2,11 @@
 
 <color=#FF5E41FF>Daten werden geladen ...</color>
 
-<color=#00E1FFFF>Zugriff gewährt. Ich wünsche dir einen schönen Tag in der postapokalyptischen Welt, Forscherin Grazina.</color></center>
+<color=#00E1FFFF>Zugriff gewährt. Ich wünsche Ihnen einen schönen Tag in der postapokalyptischen Welt, Forscherin Grazina.</color></center>
 
 An: Aufseher R.M. Morozov
 
-Herr Kotelnikov ist gegangen, um das Reinigungssystem in Versuchszone 1 zu warten, aber kurz darauf können wir keinen Kontakt mehr mit ihm aufnehmen. Was ist passiert?
+Herr Kotelnikov ist gegangen, um das Läuterungssystem im Versuchsbereich Nr. 1 zu warten, aber kurz darauf können wir keinen Kontakt mehr mit ihm aufnehmen. Was ist passiert?
 
 Mit freundlichen Grüßen
-<right>Senior-Forscherin G. Myklukho</right>
+<right>Senior-Forscherin G. Miklouho</right>

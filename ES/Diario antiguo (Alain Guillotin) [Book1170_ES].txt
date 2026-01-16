@@ -15,7 +15,7 @@ Esta máquina de apariencia tan arbitraria me parece de lo más curiosa. La inve
 Hemos investigado máquinas primigenias.
 El asistente se ha tomado un día libre.
 Le he pedido a Anne que venga a echarme una mano.
-He recomendado a René y Jakob al director del Instituto.
+He recomendado a René y Jakob a la directora del Instituto.
 
 ...
 Hemos investigado máquinas primigenias.
@@ -28,7 +28,7 @@ El asistente todavía no ha regresado. He decidido ir a ver qué pasa.
 He encontrado al padre adoptivo de René y Jakob con la ayuda de mi padre adoptivo.
 
 ...
-Las máquinas primigenias suplementarias han llegado. Ahora podremos hacer algún progreso.
+Las máquinas elementales suplementarias han llegado. Ahora podremos hacer algún progreso.
 El asistente luce de muy buen humor. Seguro que no era ninguna enfermedad grave.
 
 ...

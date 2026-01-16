@@ -1,8 +1,8 @@
-<center><color=#FF5E41FF>安全通信チャンネルは確立済み…</color>
+<center><color=#FF5E41FF>安全通信チャンネルを確立しました…</color>
 
 <color=#FF5E41FF>データ読み込み中…</color>
 
-<color=#00E1FFFF>権限認証完了。グラジーナ研究員、終末（アポカリプス）到来後の世界で、良い一日を。</color></center>
+<color=#00E1FFFF>権限認証完了。グラジーナ研究員、終末後の世界で良い一日を。</color>
 
 【上級研究員グラジーナ・ミクルーホの個人ログ】
 

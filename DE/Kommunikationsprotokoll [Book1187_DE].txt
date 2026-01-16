@@ -2,7 +2,7 @@
 
 <color=#FF5E41FF>Daten werden geladen ...</color>
 
-<color=#00E1FFFF>Zugriff gewährt. Ich wünsche dir einen schönen Tag in der postapokalyptischen Welt, Forscherin Grazina.</color></center>
+<color=#00E1FFFF>Zugriff gewährt. Ich wünsche Ihnen einen schönen Tag in der postapokalyptischen Welt, Forscherin Grazina.</color></center>
 
 An: Aufseher R.M. Morozov
 
@@ -10,4 +10,4 @@ Eine weitere Person <color=#FF5E41FF>[GESCHWÄRZT]</color> ist gestorben. Wie vi
 
 Ich weiß, du hast alles gesehen, Morozov. Stell dich nicht tot.
 
-<right>Senior-Forscherin G. Myklukho</right>
+<right>Senior-Forscherin G. Miklouho</right>

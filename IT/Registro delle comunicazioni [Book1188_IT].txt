@@ -2,13 +2,13 @@
 
 <color=#FF5E41FF>Caricamento dati...</color>
 
-<color=#00E1FFFF>Accesso consentito. Buona giornata nel mondo post-apocalittico, ricercatrice Grazina.</color></center>
+<color=#00E1FFFF>Accesso consentito. Buona giornata nel mondo postapocalittico, ricercatrice Grażyna.</color></center>
 
 Alla C.A. del supervisore R.M. Morozov
 
 Le chiedo scusa, supervisore Morozov, per aver perso il controllo delle mie emozioni.
 
-Al fine di garantire la sopravvivenza di questo bunker post-apocalittico, gradirei parlarle di persona.
+Al fine di garantire la sopravvivenza di questo rifugio postapocalittico, gradirei parlarle di persona.
 
 Cordialmente,
-<right>ricercatrice senior G. Myklukho</right>
+<right>ricercatrice senior G. Miklouho</right>

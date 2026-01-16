@@ -1,4 +1,4 @@
-■/■ - Soleado
+■ / ■ - Soleado
 
 Los padres son responsables de traer hijos al mundo, y los hijos son responsables de su futuro. Esta es una regla social. Creo que el último precepto no escrito de esta regla es que los hijos también son responsables de los últimos años de sus padres.
 Los últimos años de Alain llegaron a su fin. Dejó un testamento legando unos pequeños ahorros, a Pulonia, y algunos cuadernos.
@@ -7,7 +7,7 @@ Pulonia fue el último objetivo de Alain en vida. Es una lástima que no viviera
 Me dijo que no me preocupara por eso, que podía dejar a Pulonia al Instituto de Ciencias de Fontaine. Su único pesar era que esa gente no sabría mantenerlo tan bien como yo. No estoy de acuerdo con el plan.
 Pulonia se quedará conmigo. Sin embargo, su propósito aún no me queda claro.
 
-■/■ - Lluvioso
+■ / ■ - Lluvioso
 
 Hoy fue el funeral de Alain. Una fuerte lluvia cayó durante toda la ceremonia, como si alguien estuviera llorando en el cielo. ¡Qué molestia! ¡Es tan incómodo sostener un paraguas bajo la lluvia!
 Alain fue enterrado y todo transcurrió sin contratiempos. Fui yo quien dio un paso al frente para despedirlo, mientras Pulonia se quedó cuidando de la casa.
@@ -16,11 +16,11 @@ La noche estaba muy tranquila.
 Ya no se oyen respiraciones agitadas...
 Siento que la única compañía que me queda en este mundo es la luna.
 
-■/■ - Soleado
+■ / ■ - Soleado
 
-Me marcho. Adiós.
+Me marcho. Adiós, Alain.
 
-■/■ - Nublado
+■ / ■ - Nublado
 
 Registro de actualización:
 Mejorada la función de preparación de té de Pulonia.

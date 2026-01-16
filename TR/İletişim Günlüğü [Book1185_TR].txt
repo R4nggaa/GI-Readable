@@ -2,7 +2,7 @@
 
 <color=#FF5E41FF>Veriler yükleniyor...</color>
 
-<color=#00E1FFFF>Erişim verildi. Kıyamet sonrası dünyada harika bir gün geçirmenizi dileriz Araştırmacı Grazina.</color></center>
+<color=#00E1FFFF>Erişim verildi. Kıyamet sonrası dünyada harika bir gün geçirmenizi dileriz Araştırmacı Grażyna.</color></center>
 
 Kime: Amir R. M. Morozov
 
@@ -12,7 +12,7 @@ Aylarca süren kontrollü deneylerin ardından, Deneysel Bitkilerin yüksek kons
 
 Ancak bu tür deneylerle ilişkili önemli gizli riskleri de bildirmeliyim. Daha önce defalarca belirttiğim üzere, kıyamet kaynaklı kirlenmenin yayılabileceği potansiyel senaryolar ve Hiçlik canavarlarının kaçması sonucu personel kayıplarının yaşanması gibi olaylar, bizim öznel kontrol kabiliyetimizin kapsamı dışındadır. Son kurbanlar arasında (...) yaşından küçük bir çocuk bile vardı.
 
-Payva'nın hastalık kaynaklı ölümünün tanık olmak istediğiniz bir trajedi olmadığının ve o çocuğu kurtarmak için elinizden gelen her şeyi yaptığınızın tamamen farkındayım. Ancak bu nitelikteki deneyler ilerlemeye devam ettikçe kontaminasyon sızıntısı riski daha da ciddileşecektir. Bizim sorumluluğumuz, insanlığı felaketten koruyan bir bariyer oluşturmaktır; hiçbir koşulda o karanlığın sınırlarını test etmeye çalışmamalıyız. Açık sözlülüğüm için beni bağışlayın fakat bu deneylerin devam etmesi bütün anlamını yitirdi. Tabii niyetiniz (açık konuşmam gerekirse) sadece daha fazla dünya dışı varlığın sığınağımıza akın etmesine izin vermek değilse.
+Paiva'nın hastalık kaynaklı ölümünün tanık olmak istediğiniz bir trajedi olmadığının ve o çocuğu kurtarmak için elinizden gelen her şeyi yaptığınızın tamamen farkındayım. Ancak bu nitelikteki deneyler ilerlemeye devam ettikçe kontaminasyon sızıntısı riski daha da ciddileşecektir. Bizim sorumluluğumuz, insanlığı felaketten koruyan bir bariyer oluşturmaktır; hiçbir koşulda o karanlığın sınırlarını test etmeye çalışmamalıyız. Açık sözlülüğüm için beni bağışlayın fakat bu deneylerin devam etmesi bütün anlamını yitirdi. Tabii niyetiniz (açık konuşmam gerekirse) sadece daha fazla dünya dışı varlığın sığınağımıza akın etmesine izin vermek değilse.
 
 Yukarıda belirtilen nedenlere dayanarak, araştırma ekibim adına aşağıdaki talebi sunuyorum:
 
@@ -22,4 +22,4 @@ Gözetimimizdeki canlı tüm deneysel Hiçlik örneklerini tamamen yok edin. Hi�
 Lütfen en kısa sürede onaylayın.
 
 Saygılarımla,
-<right>Kıdemli Araştırmacı G. Myklukho</right>
+<right>Kıdemli Araştırmacı G. Miklouho</right>

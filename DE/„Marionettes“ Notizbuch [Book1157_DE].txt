@@ -10,6 +10,6 @@ Das Überleben {F#der Reisenden}{M#des Reisenden} ist eine notwendige Bedingung 
 Aktualisierungsverlauf:
 Die Kernfunktion von Pulonia wurde auf die Weltformel aktualisiert.
 Die Such- und Abruffunktionen von Pulonia wurden aktualisiert.
-Neuer Selbstschutzmechanismus für Pulonia wurde implementiert. Die Kampfpriorität wurde vom Schutz von „mich“ auf den von „Pulonia“ gesetzt.
+Ein neuer Selbstschutzmechanismus wurde für Pulonia implementiert. Die Kampfpriorität wurde vom Schutz von „mir“ auf den von „Pulonia“ verlagert.
 Es wurde eine falsche Kern- und Datenvernichtungsfunktion installiert. Alle Protokolldaten werden gelöscht, wenn der Schadensgrad unter den kritischen Schwellenwert fällt.
 Der Selbstschutzmechanismus wurde für mich aktualisiert.

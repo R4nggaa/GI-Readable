@@ -2,7 +2,7 @@
 
 <color=#FF5E41FF>Caricamento dati...</color>
 
-<color=#00E1FFFF>Accesso consentito. Buona giornata nel mondo post-apocalittico, ricercatrice Grazina.</color></center>
+<color=#00E1FFFF>Accesso consentito. Buona giornata nel mondo postapocalittico, ricercatrice Grażyna.</color></center>
 
 Alla C.A. del supervisore R.M. Morozov
 
@@ -10,4 +10,4 @@ Un'altra persona <color=#FF5E41FF>[SECRETATO]</color> è morta. A quante altre m
 
 So che l'ha visto, Morozov! La smetta di fare il finto tonto,
 
-<right>ricercatrice senior G. Myklukho</right>
+<right>ricercatrice senior G. Miklouho</right>

@@ -1,7 +1,7 @@
 <image name=UI_ReadPic_121319 />
 (Una flor artificial oxidada. Se dice que es un recuerdo de Reed Miller, el fundador de los Ladrones de Tesoros.)
 
-Según la leyenda, Filipov, el aristócrata feérico favorito del Zar Blanco, dijo una vez que todos los seres anhelan ser engañados.
+Según la leyenda, Filipov, el rey de las hadas favorito del Zar Blanco, dijo una vez que todos los mortales anhelan ser engañados.
 Ya sean nobles dispuestos a cargar con el sufrimiento de la extravagancia y los deseos de los plebeyos, o siervos hambrientos y congelados...
 La gente tiende a creer aquello que desea escuchar, evitando la cruda verdad.
 Por lo tanto, en cierto sentido, la esperanza no es más que una manifestación de la desesperación, un veneno dulce que consuela nuestras penas.
@@ -11,12 +11,12 @@ Entre las innumerables leyendas, en las que es difícil distinguir entre verdad 
 Con una medalla falsa engañó a la guardia de élite del Reino del Norte y saqueó por completo el palacio del gobernador.
 Más tarde, se hizo pasar por un inspector imperial del Zar y ordenó al vizconde Schpekin que vaciara sus arcas para recibirlo.
 En la comedia «Una familia de nobles: los caballeros Porfirio» de la Compañía Korolevski, que gozaba de gran popularidad...
-El ladrón, que hace una breve aparición, se presentó ante la aristocracia como un necio sagrado capaz de oír los susurros de los muertos.
+El ladrón, que hace una breve aparición, se presentó ante la aristocracia como un santo capaz de oír los susurros de los muertos.
 Fingía escuchar sus confesiones, para luego convertir sus secretos más sucios en canciones.
 Hizo que los bardos las cantaran en tabernas y callejones, para que el pueblo obrero pudiera reír a carcajadas.
 
 Y en aquellos días en que todos estos sucesos maravillosos e inexplicables aún no se habían convertido en obras teatrales...
-El ladrón que jamás había mentido hizo una promesa a su compañero, por cuyas venas también fluía una sangre plateada:
+El ladrón que jamás había mentido hizo una promesa a su compañero, que también llevaba sangre de plateada en sus venas:
 Prometió no ponerse nunca en peligro y nunca traicionar el juramento que habían hecho.
 
 “No te preocupes por mí, Alia. No llores por un mañana que aún no ha llegado”.
@@ -32,5 +32,5 @@ Lamentablemente, el tiempo nunca nos da una segunda oportunidad.
 Ahora no era más que un recuerdo lejano, cuando el gran ladrón aún no había caminado hacia el patíbulo en medio de la angustia y el remordimiento de su querido amigo...
 Y cuando la chica que usurpó su nombre aún no había ocultado su rostro tras una máscara.
 
-“Búrlense de sus temerosas mentiras, hermanos, pues el gran ladrón Reed Miller nunca murió.
-Han asesinado a un cuervo, pero con la luz del mañana, una bandada de cuervos empezará a seguirme”.
+“Búrlense de sus temerosas mentiras, hermanos, pues el gran ladrón Reed Miller nunca murió”.
+“Un cuervo podrá caer ante sus flechas, pero con la luz del mañana, una bandada emergerá portando mi nombre”.

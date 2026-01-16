@@ -10,6 +10,6 @@ La survie de {NICKNAME} est une condition nécessaire à la réussite de l'opér
 Journal des mises à jour :
 Mise à niveau de la fonction principale de Pulonia vers la formule mondiale.
 Amélioration des fonctions de recherche et de récupération de Pulonia.
-Mise en place d'un nouveau mécanisme d'autopréservation pour Pulonia. La priorité au combat est passée de la protection du «{NON_BREAK_SPACE}Moi{NON_BREAK_SPACE}» à la protection de « Pulonia ».
+Mise en place d'un nouveau mécanisme d'auto-préservation pour Pulonia. La priorité au combat est passée de la protection du « Moi » à la protection de « Pulonia ».
 Installation d'un faux noyau et d'une fonction d'autodestruction des données. Toutes les données du journal seront effacées si le niveau de dégâts passe sous le seuil critique.
-Amélioration de mes mécanismes d'autopréservation.
+Amélioration de mes mécanismes d'auto-préservation.

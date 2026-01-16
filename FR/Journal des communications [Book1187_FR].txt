@@ -2,7 +2,7 @@
 
 <color=#FF5E41FF>Chargement des données...</color>
 
-<color=#00E1FFFF>Accès autorisé. Je vous souhaite une excellente journée dans ce monde post-apocalyptique, chercheuse Grazina.</color></center>
+<color=#00E1FFFF>Accès autorisé. Je vous souhaite une excellente journée dans ce monde post-apocalyptique, chercheuse Grażyna.</color></center>
 
 À : Superviseur R.M. Morozov
 
@@ -10,4 +10,4 @@ Une autre personne <color=#FF5E41FF>[CENSURÉ]</color> est morte. Combien de mor
 
 Je sais que vous l'avez vu, Morozov. Arrêtez de faire le mort.
 
-<right>Chercheuse aînée G. Myklukho</right>
+<right>Chercheur aîné G. Miklouho</right>
