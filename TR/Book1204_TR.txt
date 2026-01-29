@@ -8,12 +8,12 @@ Bu cilt, Mantarlarla etkileşime girmesi gerekebilecek canavar terbiyecileri, bi
 Kitap, Mantarlarla etkileşime geçme sürecinin genel adımlarını esas alarak şu bölümlere ayrılmıştır:
 I. Faaliyet Alanları ve Tür Tespiti
 II. Ön Hazırlıklar ve Gerekli Malzemeler
-III. Saldırganlığı Azaltma ve İletişim Temeli Kurma
+III. Saldırganlığı Azaltma ve İletişim Temellerinin Atılması
 IV. Temel Etkileşim Yöntemleri
 V. Tehlike Sinyalleri ve Geri Çekilme Prosedürleri
 ...
 ...
-III. Bölüm: Saldırganlığı Azaltma ve İletişim Temeli Kurma
+III. Bölüm: Saldırganlığı Azaltma ve İletişim Temellerinin Atılması
 Yazar, birkaç yıl süren araştırması boyunca 1.332 ayrı Mantarı doğrudan gözlemlemiştir. Aşağıda sunulan tüm sonuçlar, birinci elden saha çalışmalarına dayalı veri analizlerinden elde edilmiştir.
 Şunu belirtmek gerekir ki Mantarların %92'si yakında insanların varlığını tespit ettiklerinde savaşa hazır hale gelir. Bu nedenle onların güvenini kazanmak çok zordur.
 Geçmişte bazı araştırmacılar, özel ilaçlar ve cihazlar kullanarak Mantarları zorla kontrol etmeye çalıştı. Ancak bu tür yöntemler çok daha büyük riskler taşıyor. Bu yöntemler saldırganlıklarını artırabilir, Mantarların aktif oldukları alanların genişlemesine neden olabilir ve hatta algı sınırlarının içindeki tüm insanlara ayrım gözetmeksizin saldırmalarına yol açabilir.
@@ -37,16 +37,16 @@ Geri çekilme süreci sırasında ilk öncelik, sert veya ani vücut hareketleri
 IX. Bölüm: Mantar Faaliyetlerinin İkincil Etkileri
 Geniş bir kategori olan Efsanevi Canavarların alt sınıfını oluşturan Mantarlar, Element Enerjisini sınırlı da olsa kullanma yetisine sahiptir. Ancak dikkatli olunmazsa bu enerji yakındaki kişiler ve çevre üzerinde öngörülemeyen sonuçlar doğurabilir.
 Bunun yanı sıra, güncel biyolojik sınıflandırmalar Mantarların mutasyona uğramış sporlardan türediğine işaret ediyor. Geniş çaplı kanıtlar henüz yetersiz olsa da, şu ihtimal göz ardı edilemez: Bir Mantar belirli bir büyüme aşamasına ulaştığında, etrafa ilave sporlar saçmaya başlayabilir.
-Bu sporlar insanlar tarafından solunduğu takdirde
+Spor solunmasından kaynaklanan potansiyel patolojik belirtiler henüz belirlenmemiştir.
 Bu nedenle, Mantarlarla kapalı alanlarda uzun süre bir arada bulunmaktan kaçınılmalıdır. Bir çadırın içinde barınılırken bile sık sık havalandırma sağlanmalıdır.
 
 ...
 XII. Bölüm: Mantarların Kabul Ettiği Yiyecekler
 Yiyecekler, güven oluşturmak ve bağları güçlendirmek için önemli bir köprü görevi görür. Mantarlarla istikrarlı bir ortaklık kurmak için onların beslenme tercihlerini anlamak çok önemlidir.
-Teknik olarak Mantarlar geleneksel anlamda "yemek" yemezler. Bunun yerine belirli ortamlardaki besinleri kendilerine has bir işlemle emerler.
+Teknik olarak Mantarlar geleneksel anlamda "yemek" yemezler. Bunun yerine belirli ortamlardaki besinleri kendilerine has bir işlemle "emerler".
 Önceki çalışmalarda Amurta araştırmacıları, bitki bazlı jellerin Mantarların uzun süre boyunca ihtiyaç duyduğu maddeleri depolamak için kullanılabileceğini keşfetmişlerdir. Bu jeller besin taşıyıcıları olarak işlev görür ve sürekli besin sağlar.
 Bu jel daha sonra geliştirilerek Muhteşem Jöle olarak bilinen sabit bir forma dönüştürülmüştür. Temel hazırlama yönteminin tüm ayrıntıları Ek III'te, aroma özütleme ve ekleme teknikleri ise Ek IV'te yer almaktadır.
-Kapsamlı vaka çalışmaları henüz yetersiz olduğundan, bu bölümde sadece bazı Mantarların damak zevkine hitap ettiği kanıtlanmış lezzet malzemelerine yer verilmiştir.
+Kapsamlı vaka çalışmaları henüz yetersiz olduğundan, bu bölümde sadece bazı Mantarların damak zevkine hitap ettiği kanıtlanmış malzemelere yer verilmiştir.
 Mevcut durumda nispeten stabil olduğu onaylanan malzemeler: Böğürtlen, Nane, Valyemiş, Yengeç Yumurtası, Eflatun Kavun, Soğan, Bulle Meyvesi, Kahve, Lakka Böğürtleni...
 Önerilmeyen malzemeler: Jueyun Biberi, Karabiber, Çiğ Et, süt ürünleri, Badem, Baharat, Spinel Meyvesi...
 ...
